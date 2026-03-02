@@ -20,11 +20,12 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mananpatel333&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananpatel333&layout=compact&theme=github_dark&hide_border=true" height="165" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=mananpatel3333&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananpatel3333&layout=compact&theme=github_dark&hide_border=true" height="165" />
+
 </div>
 <div align="center">
-</div>
-<div align="center">
-  <sub>Built with ❤️ by <strong>Manan Patel</strong> · © 2026</sub>
+  <sub>Built by <strong>Manan Patel</strong> · © 2026</sub>
 </div>
